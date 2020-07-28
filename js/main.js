@@ -63,7 +63,7 @@ function getDateNow(){
 		date.getMonth() + 1,
 		date.getDate()
 	]
-	return nowDate.join('/') + " 18:00:00";
+	return nowDate.join('/') + " 06:00:00";
 }
 
 $('#countdown').countdown({
